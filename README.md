@@ -1,4 +1,4 @@
-# Bus Reservation System
+# Binary-Search-Tree-Visualizer
 
 Welcome to the Bus Reservation System project! This system allows users to manage bus information, make reservations, and view seat availability. Whether you're a user looking to reserve a seat or an administrator adding new buses, this system has you covered.
 
